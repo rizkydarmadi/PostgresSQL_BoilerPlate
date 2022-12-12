@@ -1,0 +1,8 @@
+{
+    "rdbms": "postgresql",
+    "user":"postgres",
+    "host": "localhost",
+    "port": 5460,
+    "name": "account",
+    "password": "12qwaszx"
+}
